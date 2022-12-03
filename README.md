@@ -4,6 +4,6 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
 
 ## Index of challenges
 
-- [Day 1](./day-1/)
-- [Day 2](./day-2/)
-- [Day 3](./day-3/)
+- [Day 1: Calorie Counting](./day-1/)
+- [Day 2: Rock Paper Scissors](./day-2/)
+- [Day 3: Rucksack Reorganization](./day-3/)
