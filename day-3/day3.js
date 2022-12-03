@@ -91,10 +91,3 @@ const sumOfPriorityByGroup = arrayOfTypesPerGroup
   .reduce((acc, el) => acc + el, 0);
 
 console.log(sumOfPriorityByGroup); // 2708
-
-/*
-git commit -m "first commit"
-git branch -M main
-git remote add origin git@github.com:andersonfpcorrea/advent-of-code.git
-git push -u origin main
-*/
