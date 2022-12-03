@@ -70,7 +70,7 @@ arrayOfRucksacks.forEach((sack) => {
 });
 
 /**
- * @param {string} arrOfSacks
+ * @param {string[]} arrOfSacks
  * @returns
  */
 const findRepeatedTypeIn = (arrOfSacks) => {
